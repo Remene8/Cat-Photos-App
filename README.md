@@ -1,2 +1,2 @@
 # Cat-Photos-App
-The index of a photo app
+The index page of a cat photo app
